@@ -21,5 +21,11 @@ Sourced from Kaggle (educational purposes). Contains features related to student
 📝 Built With
 Python, Streamlit, Pandas, NumPy, Scikit-Learn, XGBoost, Plotly, Seaborn
 
+
+🚀 I deployed my Student Score Prediction project as an interactive Streamlit dashboard!  
+Explore the dataset, visualize trends, and predict student scores in real-time.  
+Try it here: [Student Score Predictor App](https://student-score-predictor1.streamlit.app/)
+
+
 👨‍💻 Author
 Eng. Ahmed Taha
